@@ -6,7 +6,7 @@
 
 
 
-This repository contains 2 of the largest projects from the c-piscine 21 in school 21.
+This repository contains 2 of the largest projects from the c-piscine in school 21.
 
 School 21 is a franchise of the French programming school ecole 42, it was opened in Russia by sber.
 
